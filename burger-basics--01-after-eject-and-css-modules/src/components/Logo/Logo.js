@@ -1,6 +1,6 @@
 import React from 'react';
 
-import burgerLogo from '../../assests/images/burger-logo.png'
+import burgerLogo from '../../assests/images/Logopeque.png'
 
 import classes from './Logo.css'
 
